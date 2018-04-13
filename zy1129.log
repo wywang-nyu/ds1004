@@ -1,3 +1,25 @@
+ss8955
+*   5958e8e Merge branch 's5'
+|\  
+| *   cf23122 Merge branch 's3' into HEAD
+| |\  
+| | * bba60cc 4th commit (1st on s3)
+* | |   ae8e833 merge s4 to master
+|\ \ \  
+| |/ /  
+|/| |   
+| * | 852cd7a 5th commit (1st on s4)
+* | |   b104244 merge s1 to master
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
+| * 422b4ca 2nd commit (1st on s1)
+* | 03755a9 3rd commit (2nd on master)
+|/  
+* b7251c9 1st commit (1st on master).
+
 zy1129
 *   6a906b8 9th commit on master
 |\  
