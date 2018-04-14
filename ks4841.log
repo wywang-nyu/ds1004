@@ -21,22 +21,25 @@ ayw255
 * 19126e3 1st commit (1st on master).
 
 ks4841
-*   b5879b0 eight
+*   eaed14c (HEAD -> five) Merge branch 'two' into five
 |\  
-| *   ccbea52 6
+| *   8298e5c (two, 6) Merge branch 'two' into HEAD
 | |\  
-| | * aec5852 3
-| * |   2221c16 4
-| |\ \  
-| | |/  
-| |/|   
-| * | 28f9ddb 1
-* | | ec143f7 5
-| |/  
-|/|   
-* | 463a00a 2
+| | * 0af72c3 six
+* | |   ccbea52 (one) 6
+|\ \ \  
+| |/ /  
+|/| |   
+| * | aec5852 (three) 3
+* | |   2221c16 4
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 463a00a (six) 2
+* | 28f9ddb 1
 |/  
-* e2ccb48 0
+* e2ccb48 (master, four1) 0
 
 pg1690
 *   0da8c0c merge branch5
