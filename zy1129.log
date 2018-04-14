@@ -16,6 +16,28 @@ ks4841
 |/
 * e2ccb48 0
 
+pg1690
+*   0da8c0c merge branch5
+|\
+| *   d44ffde merge branch3
+| |\
+| | * d813994 4th commit (1st on branch3)
+* | |   efab332 merge branch4 to master
+|\ \ \
+| |/ /
+|/| |
+| * | d0b09e8 5th commit (1st on branch4)
+* | |   f611bc5 merge branch1 to master
+|\ \ \
+| |/ /
+| | /
+| |/
+|/|
+| * eb82b36 2nd commit (1st on branch1)
+* | 133fa78 3rd commit (2nd on master)
+|/
+* be3bd78 1st commit (1st on master).
+
 zy1129
 *   6a906b8 9th commit on master
 |\  
