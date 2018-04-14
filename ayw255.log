@@ -1,23 +1,23 @@
 ayw255
 *   aaf35e9 Merge branch 'b5' to master
-|\  
+|\
 | *   ced62d3 Merge branch 'b3' into HEAD
-| |\  
+| |\
 | | * a07894c 4th commit (1st on b3)
 * | |   8ebc43f Merge branch 'b4' to master
-|\ \ \  
-| |/ /  
-|/| |   
+|\ \ \
+| |/ /
+|/| |
 | * | 70334cd 5th commit (1st on b4)
 * | |   b2ed645 Merge branch 'b1' to master
-|\ \ \  
-| |/ /  
-| | /   
-| |/    
-|/|     
+|\ \ \
+| |/ /
+| | /
+| |/
+|/|
 | * 07c3f44 2nd commit (1st on b1)
 * | d4d8d74 3rd commit (2nd on master)
-|/  
+|/
 * 19126e3 1st commit (1st on master).
 
 ks4841
@@ -40,25 +40,47 @@ ks4841
 
 pg1690
 *   0da8c0c merge branch5
-|\
+|\  
 | *   d44ffde merge branch3
-| |\
+| |\  
 | | * d813994 4th commit (1st on branch3)
 * | |   efab332 merge branch4 to master
-|\ \ \
-| |/ /
-|/| |
+|\ \ \  
+| |/ /  
+|/| |   
 | * | d0b09e8 5th commit (1st on branch4)
 * | |   f611bc5 merge branch1 to master
-|\ \ \
-| |/ /
-| | /
-| |/
-|/|
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
 | * eb82b36 2nd commit (1st on branch1)
 * | 133fa78 3rd commit (2nd on master)
-|/
+|/  
 * be3bd78 1st commit (1st on master).
+
+ss8955
+*   5958e8e Merge branch 's5'
+|\  
+| *   cf23122 Merge branch 's3' into HEAD
+| |\  
+| | * bba60cc 4th commit (1st on s3)
+* | |   ae8e833 merge s4 to master
+|\ \ \  
+| |/ /  
+|/| |   
+| * | 852cd7a 5th commit (1st on s4)
+* | |   b104244 merge s1 to master
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
+| * 422b4ca 2nd commit (1st on s1)
+* | 03755a9 3rd commit (2nd on master)
+|/  
+* b7251c9 1st commit (1st on master).
 
 zy1129
 *   6a906b8 9th commit on master
